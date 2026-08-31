@@ -1,6 +1,6 @@
-# 👩‍💻 Olá! Eu sou Ingrid de Souza
+# 👩‍💻 Olá! Eu sou Ingrid 
 
-### Desenvolvedora em formação | Tecnologia da Informação | Python | Desenvolvimento Web | Dados
+### Desenvolvedora em formação | Tecnologia da Informação | Desenvolvimento Web | Dados
 
 Sou estudante de **Tecnologia da Informação**, apaixonada por tecnologia e desenvolvimento de software.
 
